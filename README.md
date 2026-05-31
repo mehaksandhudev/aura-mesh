@@ -1,5 +1,8 @@
 # AuraMesh: Edge-Optimized Face Landmark & Coordinate Telemetry Microservice
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
+
+
 [![Docker Build](https://github.com/mehaksandhudev/Advanced-Face-Detetction-service/actions/workflows/docker-build-push.yml/badge.svg)](https://github.com/mehaksandhudev/Advanced-Face-Detetction-service/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Docker Pulls](https://img.shields.io/docker/pulls/mehakxsandhu/face-detection-service)](https://hub.docker.com/r/mehakxsandhu/face-detection-service)
