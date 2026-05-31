@@ -1,6 +1,5 @@
 # AuraMesh: Edge-Optimized Face Landmark & Coordinate Telemetry Microservice
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
 
 
 [![Docker Build](https://github.com/mehaksandhudev/Advanced-Face-Detetction-service/actions/workflows/docker-build-push.yml/badge.svg)](https://github.com/mehaksandhudev/Advanced-Face-Detetction-service/actions)
@@ -340,6 +339,16 @@ To prevent memory crashes, the API restricts direct file uploads to **16MB**. Fo
 **3. "Where do I track the XYZ facial feature?"**
 Please consult the incredibly detailed [LANDMARKS_MAPPING.md](LANDMARKS_MAPPING.md) file. It contains the exact dictionary key names and MediaPipe indices for all 123 tracked points.
 
+
+---
+
+## ? Support
+
+If this project helped you, consider buying me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
+
+---
 ---
 
 ## 📄 License
