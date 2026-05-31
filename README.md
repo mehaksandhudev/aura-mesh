@@ -342,11 +342,11 @@ Please consult the incredibly detailed [LANDMARKS_MAPPING.md](LANDMARKS_MAPPING.
 
 ---
 
-## ? Support
+## ☕ Support
 
 If this project helped you, consider buying me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%E2%98%95-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/mehaksandhudev)
 
 ---
 ---
